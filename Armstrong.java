@@ -6,7 +6,7 @@ public class Armstrong {
 		
 
 		int num = 153;
-		int count = 0;
+		
 		
 		isArm(num);
 		
