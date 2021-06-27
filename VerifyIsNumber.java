@@ -44,7 +44,7 @@ public class VerifyIsNumber {
 			
 			return false;
 		}
-		
+		//returning a boolean value
 		return true;
 		
 	}
