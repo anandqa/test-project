@@ -10,6 +10,8 @@ public class Armstrong {
 		
 		isArm(num);
 		
+		System.out.println("this is test");
+		
 		
 
 	}
