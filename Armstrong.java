@@ -6,6 +6,7 @@ public class Armstrong {
 		// TODO Auto-generated method stub
 
 		int num = 153;
+		int count = 0;
 		
 		isArm(num);
 		
