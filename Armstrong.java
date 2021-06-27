@@ -3,7 +3,7 @@ package com.java.intv;
 public class Armstrong {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		int num = 153;
 		int count = 0;
