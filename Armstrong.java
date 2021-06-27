@@ -7,7 +7,7 @@ public class Armstrong {
 
 		int num = 153;
 		
-		
+		//this is a sample
 		isArm(num);
 		
 		System.out.println("this is test");
