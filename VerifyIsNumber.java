@@ -9,7 +9,7 @@ public class VerifyIsNumber {
 
 		/*Scanner sc = new Scanner(System.in);
 		*/
-		System.out.println("Please enter your input");
+		System.out.println("Please enter your input to enter");
 		
         char ch = '5';
         
